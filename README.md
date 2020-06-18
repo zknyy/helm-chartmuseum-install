@@ -68,7 +68,7 @@ kubectl port-forward $POD_NAME 8080:8080 --namespace default
 
 打开浏览器 访问 http://127.0.0.1:8080/ 得到
 
-![homepage](.\homepage.png)
+![homepage](https://raw.githubusercontent.com/zknyy/helm-chartmuseum-install/master/homepage.png)
 
 ## 设置
 
